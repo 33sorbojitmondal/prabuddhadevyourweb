@@ -40,3 +40,7 @@ Machine No. : 026
 Deployed Backend Link : https://arbitrat-prabuddha-server.onrender.com/api/
 Frontend Github Repo: https://github.com/goblin45/arbitrat-prabuddha-client
 Backend Github Repo: https://github.com/goblin45/arbitrat-prabuddha-server
+
+Team name: DevDynamos
+Team Members: Kaushik Majee, Sonali Kumari, Kumari Lucky Raj
+Machine No.: 017
