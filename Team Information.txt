@@ -36,7 +36,7 @@ machine no: 007
 
 Team name: Arbitrat
 Team Members: Prabuddha Chowdhury, Rajarshi Dutta,
-Machine No. : 0026
+Machine No. : 026
 Deployed Backend Link : https://arbitrat-prabuddha-server.onrender.com/api/
 Frontend Github Repo: https://github.com/goblin45/arbitrat-prabuddha-client
 Backend Github Repo: https://github.com/goblin45/arbitrat-prabuddha-server
