@@ -4,7 +4,9 @@ Write your team name along with team members names and machine no
 Glock5- Aditya Sen and Rishiraj Mukherjee
 machine no.- 013
 
-
+Team name: Infinity Gauntlet
+Team members: Shribas Panja, Kaustav Ghosh,Himadri Das
+Machine number:028
 
 Team name: lastmin-Ninjas.
 Team members: Soumili Roy, Zinnia Choudhury, Aneek Ali Sardar.
