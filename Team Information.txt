@@ -29,3 +29,7 @@ machine no.: 001
 Team name: Solo Web
 Team members: Akash Maity
 machine no: 024
+
+Team name : TechCrest
+Team members : sk kaif uddin, aakif husain, rohit mondal, md huzaifa iqbal
+machine no: 007
