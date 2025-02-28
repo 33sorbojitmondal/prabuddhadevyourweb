@@ -25,3 +25,7 @@ Machine number: 012.
 Team name: enigma
 Team members: Sayar bhowmick, antara saha, subhomita ghosh
 machine no.: 001
+
+Team name: Solo Web
+Team members: Akash Maity
+machine no: 024
