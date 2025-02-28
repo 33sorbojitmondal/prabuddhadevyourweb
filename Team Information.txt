@@ -33,3 +33,7 @@ machine no: 024
 Team name : TechCrest
 Team members : sk kaif uddin, aakif husain, rohit mondal, md huzaifa iqbal
 machine no: 007
+
+Team Name : Deadline Tech
+Team members : Md Fahad Alam & Md zahid Ahmad
+Machine No: 005
