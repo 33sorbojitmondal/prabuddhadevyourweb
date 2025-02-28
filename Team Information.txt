@@ -33,3 +33,8 @@ machine no: 024
 Team name : TechCrest
 Team members : sk kaif uddin, aakif husain, rohit mondal, md huzaifa iqbal
 machine no: 007
+
+Team name: Arbitrat
+Team Members: Prabuddha Chowdhury, Rajarshi Dutta,
+Machine No. : 0026
+Deployed Backend Link : https://arbitrat-prabuddha-server.onrender.com/api/
